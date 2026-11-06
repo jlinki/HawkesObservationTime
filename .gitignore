@@ -1,0 +1,6 @@
+.idea
+/results/
+/figures/
+.DS_Store
+__pycache__/
+*.py[cod]
